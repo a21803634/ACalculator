@@ -16,7 +16,6 @@ class MainActivity : AppCompatActivity() {
     private var count = ""
     private val VISOR_KEY = "visor"
     private val OPERATOR_KEY = "operator"
-    private val LIST_HISTORIC_KEY = "list_historic"
     var ex = ""
     var res = ""
     var operator: Operation = Operation(ex, res)
